@@ -13,7 +13,9 @@ Diabetes_App is for deployment purpose.
 # Credits
 Shoutout to MEHMET AKTURK for the data
 check out his kaggle dataset here
-https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+https://www.kaggle.com/datasets/mathchi/diabetes-data-set/.
+Also for machine learning parameters tuning can refers to
+https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
 
 # Code
 '''
